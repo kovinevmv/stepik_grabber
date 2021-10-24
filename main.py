@@ -4,7 +4,3 @@ course_id = '50352'
 grabber = StepikGrabber(course_id)
 grabber.grab_answers()
 grabber.dump_course()
-
-
-
-
